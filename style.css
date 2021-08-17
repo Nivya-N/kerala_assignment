@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    align-content:center;
+}
+/* .myMargin{
+    margin-top: 40px;
+    margin-left: 250px;
+} */
+.display-1{
+    align-self: center;
+    border: cadetblue;
+    font-size:75px;
+    text-align: center;
+    color: green;
+ font-weight:bolder;
+    margin-top: 2% ;
+
+}
+.flex-row{
+    align-content: flex-start;
+}
+/* .carousel-item{
+    height: 50%;
+    width: 25%;
+} */
+
+.myMargin{
+    margin: 25px;
+}
+h1{
+    color: brown;
+    size: 20px;
+
+}
+.para-kerala{
+    float: left;
+    color:teal;
+}
+body{
+    background-image: url(./images/background.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.col-lg-8{
+    margin-top: 10%;
+    align-self: center;
+}

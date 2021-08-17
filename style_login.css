@@ -1,0 +1,33 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.myMargin{
+    margin-top: 100px;
+
+}
+/* .image{
+    height: 100px;
+    width: 50px;
+} */
+body{
+    
+    
+        background-image: url(./images/Login.jpg);
+        background-repeat: no-repeat;
+        background-size:contain;
+        background-position-x: 5%;
+        background-position-y:100px;
+    }
+    
+    /* background-size: 300px 100px; */
+
+
+.container{
+    background-color:lightskyblue;
+    
+} 
+.btn{
+    align-items: center;
+}

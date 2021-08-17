@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: lightgreen;
+}
+h1{
+
+    
+    text-align: center;
+    text-shadow: 10em;
+    color: rgb(98, 145, 98);
+    font-weight:500;
+    font-family: sans-serif;
+    
+}
+.col{
+    text-align: justify;
+}
+.card img{
+    height: 200px;
+}
+.card-text{
+    text-align: justify;
+}
