@@ -38,7 +38,8 @@ h1{
 }
 .para-kerala{
     float: left;
-    color:teal;
+    color:darkred;
+    text-align: justify;
 }
 body{
     background-image: url(./images/background.jpg);
