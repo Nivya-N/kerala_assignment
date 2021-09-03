@@ -1,6 +1,54 @@
 
 body{
-    background-image: url(../images/kerala3.jpg);
+    background-image: url(../images/kerala_new.png);
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size:contain;
+    
+}
+h1{
+    align-content: center;
+}
+#form-id{
+    
+    align-self: center;
+    /* background-color: olive;  */
+    color: lightcoral;
+    border-color:midnightblue ;
+    margin-left: 800px;
+    margin-top: 50px;
+}
+body
+{
+ font-family:helvetica;
+}
+#heading
+{
+ margin-top:150px;
+ text-align:center;
+ font-size:27px;
+ color:#2E2EFE;
+}
+
+#meter_wrapper
+{
+ border:1px solid black;
+ /* margin-left:38%; */
+ margin-top:20px;
+ width:200px;
+ height:20px;
+ border-radius:3px;
+ 
+ /* background-color: brown; */
+}
+#meter
+{
+ width:0px;
+ height:20px;
+ 
+ /* border-radius: */
+ /* background-color: lime; */
+}
+
+ul{
+    color: rgb(164, 144, 238);
 }
